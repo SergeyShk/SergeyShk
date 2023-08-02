@@ -77,6 +77,12 @@ Welcome to my page! I'm Sergey, NLP Engineer from 🇷🇺 **Moscow, Russia**, c
   </tbody>
 </table>
 
+### Stats
+
+![](https://komarev.com/ghpvc/?username=SergeyShk)
+
+<img src="https://github-readme-stats.vercel.app/api?username=SergeyShk&count_private=true" />
+
 ### Where to find me
 
 <p>
