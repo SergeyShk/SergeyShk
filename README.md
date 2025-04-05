@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my page! I'm Sergey, NLP Engineer from 🇷🇺 **Moscow, Russia**, currently living in 🇵🇪 **Santa María de los Valles de Chiclayo, Perú**.
+Welcome to my page! I'm Sergey, NLP Engineer from 🇷🇺 **Moscow, Russia**, currently living in 🇵🇪 **San Leandro de Jaén, Perú**.
 
 ### Things I code with</h3>
 
