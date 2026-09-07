@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my page! I'm Sergey, NLP Engineer from 🇷🇺 **Moscow, Russia**, currently living in 🇪🇸 **Barcelona, Spain**.
+Welcome to my page! I'm Sergey, AI Engineer from 🇷🇺 **Moscow, Russia**, currently living in 🇪🇸 **Barcelona, Spain**.
 
 ### Things I work with</h3>
 
@@ -95,5 +95,5 @@ Welcome to my page! I'm Sergey, NLP Engineer from 🇷🇺 **Moscow, Russia**, c
 <p>
   <a href="https://www.instagram.com/ser.shkarin/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sshkarin" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://vk.com/shkarinsergei" target="_blank"><img alt="VK" src="https://img.shields.io/badge/vk-%231DA1F2.svg?&style=for-the-badge&logo=vk&logoColor=white" /></a>
+  <a href="https://vk.ru/shkarinsergei" target="_blank"><img alt="VK" src="https://img.shields.io/badge/vk-%231DA1F2.svg?&style=for-the-badge&logo=vk&logoColor=white" /></a>
 </p>
