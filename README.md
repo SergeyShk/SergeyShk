@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my page! I'm Sergey, AI Engineer from 🇷🇺 **Moscow, Russia**, currently living in 🇪🇸 **Barcelona, Spain**.
+Welcome to my page! I'm Sergey, AI Engineer from 🇷🇺 **Russia**
 
 ### Things I work with</h3>
 
