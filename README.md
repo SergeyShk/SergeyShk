@@ -41,7 +41,7 @@ Welcome to my page! I'm Sergey, AI Engineer from 🇷🇺 **Russia**
 
 ### Text processing family
 
-Open-source Python and Rust libraries from raw text to text statistics, growing into a self-contained stack that replaces spaCy
+Open-source Python and Rust libraries for processing text from segmentation to statistics
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/family-dark.svg" />
