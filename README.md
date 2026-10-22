@@ -43,10 +43,7 @@ Welcome to my page! I'm Sergey, AI Engineer from 🇷🇺 **Russia**
 
 Open-source Python and Rust libraries for processing text from segmentation to statistics
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/family-dark.svg" />
-  <img alt="Text processing family: anySeg; ruMorph, esMorph; ruSyntax, esSyntax; anyTS, ruTS, esTS, enTS; ruTS-mcp, ruTS-adapt" src="assets/family-light.svg" />
-</picture>
+<img alt="Text processing family: anySeg; ruMorph, esMorph; ruSyntax, esSyntax; anyTS, ruTS, esTS, enTS; ruTS-mcp, ruTS-adapt" src="assets/family-light.svg" />
 
 ### Open source projects
 
