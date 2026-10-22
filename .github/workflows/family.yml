@@ -1,0 +1,39 @@
+name: Family diagram
+
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - scripts/family.py
+      - .github/workflows/family.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: family-diagram
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - name: Draw the diagram
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 scripts/family.py
+      - name: Commit if versions or logos changed
+        run: |
+          git add assets/family.svg
+          if git diff --cached --quiet; then
+            echo "The diagram is up to date"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898208+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Обновить схему семейства библиотек"
+          git push
