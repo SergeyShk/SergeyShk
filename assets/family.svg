@@ -65,7 +65,7 @@
   <path fill="none" stroke="#1976d2" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" d="M 2023.0 340.0 Q 2005.0 225.99999999999997, 1939.0 196.0"/>
   <path fill="#1976d2" d="M 1917.0 196.0 A 22 22 0 1 0 1961.0 196.0 A 22 22 0 1 0 1917.0 196.0 Z"/>
 </svg>
-<rect x="367.7" y="178" width="52.3" height="19" rx="9.5" fill="#ddf4ff"/><text x="393.9" y="191.5" font-size="11" font-weight="600" fill="#0969da" text-anchor="middle">v0.2.0</text>
+<rect x="367.7" y="178" width="52.3" height="19" rx="9.5" fill="#ddf4ff"/><text x="393.9" y="191.5" font-size="11" font-weight="600" fill="#0969da" text-anchor="middle">v0.3.0</text>
 <rect x="322.2" y="178" width="39.5" height="19" rx="9.5" fill="#fff1e5"/><text x="342.0" y="191.5" font-size="11" font-weight="600" fill="#bc4c00" text-anchor="middle">Rust</text>
 <text x="194" y="222" font-size="12.5" fill="#1f2328">Morphological analyzer: lemmas, POS</text>
 <text x="194" y="238" font-size="12.5" fill="#1f2328">and UD features</text>
@@ -90,7 +90,7 @@
 <text x="466" y="396" font-size="11.5" font-style="italic" fill="#59636e">replaces spaCy parser</text>
 <rect x="178" y="444" width="800" height="84" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
 <text x="194" y="475" font-size="19" font-weight="700" fill="#1f2328">anyTS</text>
-<rect x="911.7" y="458" width="52.3" height="19" rx="9.5" fill="#ddf4ff"/><text x="937.9" y="471.5" font-size="11" font-weight="600" fill="#0969da" text-anchor="middle">v0.3.6</text>
+<rect x="911.7" y="458" width="52.3" height="19" rx="9.5" fill="#ddf4ff"/><text x="937.9" y="471.5" font-size="11" font-weight="600" fill="#0969da" text-anchor="middle">v0.3.7</text>
 <text x="194" y="499" font-size="12.5" fill="#1f2328">Language-independent core of ruTS, esTS and enTS: lexical diversity, cohesion, corpus measures, stylometry</text>
 <path transform="translate(194 506) scale(0.75)" d="M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z" fill="#59636e"/><text x="210" y="516" font-size="11.5" fill="#0969da">SergeyShk/anyTS</text>
 <rect x="178" y="558" width="256" height="104" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
