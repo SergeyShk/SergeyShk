@@ -25,9 +25,9 @@
 <text x="46" y="797.0" font-size="14" font-weight="700" fill="#1f2328">Applications</text>
 <text x="46" y="814.0" font-size="11.5" fill="#59636e">LLM agents, text</text>
 <text x="46" y="828.0" font-size="11.5" fill="#59636e">adaptation</text>
-<path d="M306.0 130.0 L306.0 162.0" stroke="#8c959f" stroke-width="1.5" fill="none" marker-end="url(#ah)" stroke-dasharray="5 4"/>
+<path d="M306.0 130.0 L306.0 162.0" stroke="#8c959f" stroke-width="1.5" fill="none" marker-end="url(#ah)"/>
 <path d="M578.0 130.0 L578.0 162.0" stroke="#8c959f" stroke-width="1.5" fill="none" marker-end="url(#ah)" stroke-dasharray="5 4"/>
-<path d="M850.0 130.0 L850.0 442.0" stroke="#8c959f" stroke-width="1.5" fill="none" marker-end="url(#ah)" stroke-dasharray="5 4"/>
+<path d="M850.0 130.0 L850.0 442.0" stroke="#8c959f" stroke-width="1.5" fill="none" marker-end="url(#ah)"/>
 <path d="M306.0 270.0 L306.0 302.0" stroke="#8c959f" stroke-width="1.5" fill="none" marker-end="url(#ah)" stroke-dasharray="5 4"/>
 <path d="M578.0 270.0 L578.0 302.0" stroke="#8c959f" stroke-width="1.5" fill="none" marker-end="url(#ah)" stroke-dasharray="5 4"/>
 <path d="M306.0 410.0 L306.0 442.0" stroke="#8c959f" stroke-width="1.5" fill="none" marker-end="url(#ah)" stroke-dasharray="5 4"/>
@@ -37,15 +37,29 @@
 <path d="M850.0 530.0 L850.0 556.0" stroke="#8c959f" stroke-width="1.5" fill="none" marker-end="url(#ah)" stroke-dasharray="5 4"/>
 <path d="M177 610.0 H169 V750.0 H176" stroke="#8c959f" stroke-width="1.5" fill="none" marker-end="url(#ah)"/>
 <path d="M177 610.0 H169 V868.0 H176" stroke="#8c959f" stroke-width="1.5" fill="none" marker-end="url(#ah)"/>
-<rect x="178" y="44" width="800" height="84" rx="10" fill="#ffffff" stroke="#8c959f" stroke-width="1.2" stroke-dasharray="6 4"/>
-<text x="194" y="75" font-size="19" font-weight="700" fill="#59636e">anySeg</text>
-<rect x="905.3" y="58" width="58.7" height="19" rx="9.5" fill="#fff8c5"/><text x="934.7" y="71.5" font-size="11" font-weight="600" fill="#9a6700" text-anchor="middle">planned</text>
-<rect x="859.8" y="58" width="39.5" height="19" rx="9.5" fill="#fff1e5"/><text x="879.6" y="71.5" font-size="11" font-weight="600" fill="#bc4c00" text-anchor="middle">Rust</text>
-<rect x="828.1" y="58" width="26.8" height="19" rx="9.5" fill="#ffffff" stroke="#d0d7de"/><text x="841.4" y="71.5" font-size="11" font-weight="600" fill="#59636e" text-anchor="middle">EN</text>
-<rect x="796.3" y="58" width="26.8" height="19" rx="9.5" fill="#ffffff" stroke="#d0d7de"/><text x="809.7" y="71.5" font-size="11" font-weight="600" fill="#59636e" text-anchor="middle">ES</text>
-<rect x="764.5" y="58" width="26.8" height="19" rx="9.5" fill="#ffffff" stroke="#d0d7de"/><text x="777.9" y="71.5" font-size="11" font-weight="600" fill="#59636e" text-anchor="middle">RU</text>
+<rect x="178" y="44" width="800" height="84" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
+<svg x="194" y="56" width="85.5" height="26" viewBox="0 -100 3553 1080">
+  
+  <path fill="#ef6c00" d="M94.0 229.0Q134.0 211.0 189.0 200.5Q244.0 190.0 304.0 190.0Q356.0 190.0 391.0 202.5Q426.0 215.0 446.5 238.0Q467.0 261.0 475.5 293.0Q484.0 325.0 484.0 365.0Q484.0 409.0 481.0 453.5Q478.0 498.0 477.5 541.0Q477.0 584.0 480.0 624.5Q483.0 665.0 495.0 701.0H389.0L368.0 632.0H363.0Q343.0 663.0 307.5 685.5Q272.0 708.0 216.0 708.0Q181.0 708.0 153.0 697.5Q125.0 687.0 105.0 667.5Q85.0 648.0 74.0 621.5Q63.0 595.0 63.0 562.0Q63.0 516.0 83.5 484.5Q104.0 453.0 142.5 433.5Q181.0 414.0 234.5 406.5Q288.0 399.0 354.0 402.0Q361.0 346.0 346.0 321.5Q331.0 297.0 279.0 297.0Q240.0 297.0 196.5 305.0Q153.0 313.0 125.0 326.0ZM259.0 601.0Q298.0 601.0 321.0 583.5Q344.0 566.0 355.0 546.0V481.0Q324.0 478.0 295.5 480.0Q267.0 482.0 245.0 489.0Q223.0 496.0 210.0 509.0Q197.0 522.0 197.0 542.0Q197.0 570.0 213.5 585.5Q230.0 601.0 259.0 601.0Z"/>
+  <path fill="#ef6c00" d="M899.0 700.0V416.0Q899.0 355.0 881.5 328.0Q864.0 301.0 822.0 301.0Q785.0 301.0 759.5 322.5Q734.0 344.0 723.0 376.0V700.0H593.0V200.0H696.0L711.0 266.0H715.0Q738.0 234.0 776.0 210.0Q814.0 186.0 874.0 186.0Q911.0 186.0 940.0 196.0Q969.0 206.0 989.0 229.0Q1009.0 252.0 1019.0 291.5Q1029.0 331.0 1029.0 389.0V700.0Z"/>
+  <path fill="#ef6c00" d="M1320.0 481.0 1338.0 559.0H1344.0L1357.0 480.0L1433.0 200.0H1567.0L1415.0 651.0Q1396.0 707.0 1378.5 753.5Q1361.0 800.0 1340.0 834.0Q1319.0 868.0 1293.5 886.5Q1268.0 905.0 1233.0 905.0Q1181.0 905.0 1150.0 888.0L1174.0 784.0Q1189.0 790.0 1204.0 790.0Q1227.0 790.0 1248.5 770.5Q1270.0 751.0 1281.0 700.0L1072.0 200.0H1228.0Z"/>
+  <path fill="#ef6c00" d="M2301.0 512.0Q2301.0 480.0 2277.5 460.0Q2254.0 440.0 2218.5 423.5Q2183.0 407.0 2141.5 389.5Q2100.0 372.0 2064.5 346.5Q2029.0 321.0 2005.5 283.0Q1982.0 245.0 1982.0 186.0Q1982.0 135.0 1999.0 97.5Q2016.0 60.0 2047.5 35.0Q2079.0 10.0 2122.0 -2.0Q2165.0 -14.0 2218.0 -14.0Q2279.0 -14.0 2333.0 -3.5Q2387.0 7.0 2422.0 27.0L2379.0 142.0Q2357.0 128.0 2313.0 116.5Q2269.0 105.0 2218.0 105.0Q2170.0 105.0 2144.5 124.0Q2119.0 143.0 2119.0 175.0Q2119.0 205.0 2142.5 225.0Q2166.0 245.0 2201.5 262.0Q2237.0 279.0 2278.5 297.0Q2320.0 315.0 2355.5 340.5Q2391.0 366.0 2414.5 403.5Q2438.0 441.0 2438.0 497.0Q2438.0 553.0 2419.5 593.5Q2401.0 634.0 2367.5 661.0Q2334.0 688.0 2286.5 701.0Q2239.0 714.0 2182.0 714.0Q2107.0 714.0 2050.0 700.0Q1993.0 686.0 1966.0 672.0L2010.0 555.0Q2021.0 561.0 2038.5 568.0Q2056.0 575.0 2078.0 581.0Q2100.0 587.0 2124.5 591.0Q2149.0 595.0 2175.0 595.0Q2236.0 595.0 2268.5 574.5Q2301.0 554.0 2301.0 512.0Z"/>
+  <path fill="#ef6c00" d="M2926.0 657.0Q2896.0 681.0 2844.5 697.5Q2793.0 714.0 2735.0 714.0Q2614.0 714.0 2558.0 643.5Q2502.0 573.0 2502.0 450.0Q2502.0 318.0 2565.0 252.0Q2628.0 186.0 2742.0 186.0Q2780.0 186.0 2816.0 196.0Q2852.0 206.0 2880.0 229.0Q2908.0 252.0 2925.0 291.0Q2942.0 330.0 2942.0 388.0Q2942.0 409.0 2939.5 433.0Q2937.0 457.0 2932.0 483.0H2632.0Q2635.0 546.0 2664.5 578.0Q2694.0 610.0 2760.0 610.0Q2801.0 610.0 2833.5 597.5Q2866.0 585.0 2883.0 572.0ZM2740.0 290.0Q2689.0 290.0 2664.5 320.5Q2640.0 351.0 2635.0 402.0H2821.0Q2825.0 348.0 2804.5 319.0Q2784.0 290.0 2740.0 290.0Z"/>
+  <path fill="#ef6c00" d="M3457.0 700.0Q3457.0 809.0 3398.0 860.5Q3339.0 912.0 3233.0 912.0Q3161.0 912.0 3119.5 902.0Q3078.0 892.0 3057.0 881.0L3084.0 778.0Q3107.0 787.0 3137.5 796.0Q3168.0 805.0 3213.0 805.0Q3281.0 805.0 3305.5 775.5Q3330.0 746.0 3330.0 693.0V661.0H3326.0Q3291.0 708.0 3202.0 708.0Q3105.0 708.0 3057.5 648.0Q3010.0 588.0 3010.0 460.0Q3010.0 326.0 3074.0 257.0Q3138.0 188.0 3260.0 188.0Q3324.0 188.0 3374.5 197.0Q3425.0 206.0 3457.0 218.0ZM3237.0 604.0Q3275.0 604.0 3295.5 587.0Q3316.0 570.0 3327.0 536.0V311.0Q3296.0 298.0 3250.0 298.0Q3200.0 298.0 3172.0 335.5Q3144.0 373.0 3144.0 455.0Q3144.0 528.0 3168.0 566.0Q3192.0 604.0 3237.0 604.0Z"/>
+  <path fill="none" stroke="#ffb74d" stroke-width="24" stroke-linecap="round" stroke-dasharray="56 50" d="M 1749.0 630 V 920"/>
+  <path fill="#ffb74d" d="M 1676.1 155.8 C 1715.5 305.9, 1715.5 305.9, 1795.0 560.0 C 1782.5 294.1, 1782.5 294.1, 1705.9 144.2 Z"/>
+  <path fill="#ffb74d" d="M 1792.1 144.2 C 1715.5 294.1, 1715.5 294.1, 1703.0 560.0 C 1782.5 305.9, 1782.5 305.9, 1821.9 155.8 Z"/>
+  <ellipse cx="1669.0" cy="50" rx="56" ry="76" fill="none" stroke="#ef6c00" stroke-width="30" transform="rotate(-24 1669.0 50)"/>
+  <ellipse cx="1829.0" cy="50" rx="56" ry="76" fill="none" stroke="#ef6c00" stroke-width="30" transform="rotate(24 1829.0 50)"/>
+  <circle cx="1749.0" cy="300" r="17" fill="#ef6c00"/>
+</svg>
+<rect x="911.7" y="58" width="52.3" height="19" rx="9.5" fill="#ddf4ff"/><text x="937.9" y="71.5" font-size="11" font-weight="600" fill="#0969da" text-anchor="middle">v0.2.0</text>
+<rect x="866.2" y="58" width="39.5" height="19" rx="9.5" fill="#fff1e5"/><text x="886.0" y="71.5" font-size="11" font-weight="600" fill="#bc4c00" text-anchor="middle">Rust</text>
+<rect x="834.4" y="58" width="26.8" height="19" rx="9.5" fill="#ffffff" stroke="#d0d7de"/><text x="847.8" y="71.5" font-size="11" font-weight="600" fill="#59636e" text-anchor="middle">EN</text>
+<rect x="802.7" y="58" width="26.8" height="19" rx="9.5" fill="#ffffff" stroke="#d0d7de"/><text x="816.1" y="71.5" font-size="11" font-weight="600" fill="#59636e" text-anchor="middle">ES</text>
+<rect x="770.9" y="58" width="26.8" height="19" rx="9.5" fill="#ffffff" stroke="#d0d7de"/><text x="784.3" y="71.5" font-size="11" font-weight="600" fill="#59636e" text-anchor="middle">RU</text>
 <text x="194" y="99" font-size="12.5" fill="#1f2328">Tokens and sentences with offsets and a UD document model, one package for all languages</text>
-<text x="194" y="116" font-size="11.5" font-style="italic" fill="#59636e">replaces razdel, spaCy tokenizer and ~1000 lines of splitting workarounds</text>
+<path transform="translate(194 106) scale(0.75)" d="M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z" fill="#59636e"/><text x="210" y="116" font-size="11.5" fill="#0969da">SergeyShk/anySeg</text>
 <rect x="178" y="164" width="256" height="104" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
 <svg x="194" y="176" width="92.5" height="24" viewBox="17 -40 3776 980">
   

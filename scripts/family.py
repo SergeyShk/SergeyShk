@@ -46,14 +46,16 @@ LIBS = [
     {
         "id": "anyseg",
         "name": "anySeg",
-        "planned": True,
+        "repo": "anySeg",
+        "pypi": "anyseg",
+        "logo": "anyseg.svg",
+        "logo_h": 26,
         "rust": True,
         "row": 0,
         "col": 0,
         "span": 3,
         "langs": ["RU", "ES", "EN"],
         "desc": "Tokens and sentences with offsets and a UD document model, one package for all languages",
-        "replaces": "razdel, spaCy tokenizer and ~1000 lines of splitting workarounds",
     },
     {
         "id": "rumorph",
