@@ -53,7 +53,7 @@
   <ellipse cx="1829.0" cy="50" rx="56" ry="76" fill="none" stroke="#ef6c00" stroke-width="30" transform="rotate(24 1829.0 50)"/>
   <circle cx="1749.0" cy="300" r="17" fill="#ef6c00"/>
 </svg>
-<rect x="911.7" y="58" width="52.3" height="19" rx="9.5" fill="#ddf4ff"/><text x="937.9" y="71.5" font-size="11" font-weight="600" fill="#0969da" text-anchor="middle">v0.2.0</text>
+<rect x="911.7" y="58" width="52.3" height="19" rx="9.5" fill="#ddf4ff"/><text x="937.9" y="71.5" font-size="11" font-weight="600" fill="#0969da" text-anchor="middle">v0.3.0</text>
 <rect x="866.2" y="58" width="39.5" height="19" rx="9.5" fill="#fff1e5"/><text x="886.0" y="71.5" font-size="11" font-weight="600" fill="#bc4c00" text-anchor="middle">Rust</text>
 <rect x="834.4" y="58" width="26.8" height="19" rx="9.5" fill="#ffffff" stroke="#d0d7de"/><text x="847.8" y="71.5" font-size="11" font-weight="600" fill="#59636e" text-anchor="middle">EN</text>
 <rect x="802.7" y="58" width="26.8" height="19" rx="9.5" fill="#ffffff" stroke="#d0d7de"/><text x="816.1" y="71.5" font-size="11" font-weight="600" fill="#59636e" text-anchor="middle">ES</text>
