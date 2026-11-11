@@ -72,11 +72,14 @@ LIBS = [
     {
         "id": "esmorph",
         "name": "esMorph",
-        "planned": True,
+        "repo": "esMorph",
+        "pypi": "esmorph",
+        "logo": "esmorph.svg",
+        "logo_h": 24,
+        "rust": True,
         "row": 1,
         "col": 1,
         "desc": "Spanish morphology: lemmas, POS and UD features",
-        "replaces": "simplemma, spaCy tagger",
     },
     {
         "id": "rusyntax",
