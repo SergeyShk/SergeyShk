@@ -79,7 +79,7 @@
   <path fill="none" stroke="#1976d2" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" d="M 2023.0 340.0 Q 2005.0 225.99999999999997, 1939.0 196.0"/>
   <path fill="#1976d2" d="M 1917.0 196.0 A 22 22 0 1 0 1961.0 196.0 A 22 22 0 1 0 1917.0 196.0 Z"/>
 </svg>
-<rect x="367.7" y="178" width="52.3" height="19" rx="9.5" fill="#ddf4ff"/><text x="393.9" y="191.5" font-size="11" font-weight="600" fill="#0969da" text-anchor="middle">v0.6.0</text>
+<rect x="367.7" y="178" width="52.3" height="19" rx="9.5" fill="#ddf4ff"/><text x="393.9" y="191.5" font-size="11" font-weight="600" fill="#0969da" text-anchor="middle">v0.7.0</text>
 <rect x="322.2" y="178" width="39.5" height="19" rx="9.5" fill="#fff1e5"/><text x="342.0" y="191.5" font-size="11" font-weight="600" fill="#bc4c00" text-anchor="middle">Rust</text>
 <text x="194" y="222" font-size="12.5" fill="#1f2328">Morphological analyzer: lemmas, POS</text>
 <text x="194" y="238" font-size="12.5" fill="#1f2328">and UD features</text>
@@ -103,7 +103,7 @@
   <path fill="none" stroke="#c62828" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" d="M 2064.0 340.0 Q 2046.0 225.99999999999997, 1980.0 196.0"/>
   <path fill="#c62828" d="M 1958.0 196.0 A 22 22 0 1 0 2002.0 196.0 A 22 22 0 1 0 1958.0 196.0 Z"/>
 </svg>
-<rect x="639.7" y="178" width="52.3" height="19" rx="9.5" fill="#ddf4ff"/><text x="665.9" y="191.5" font-size="11" font-weight="600" fill="#0969da" text-anchor="middle">v0.4.0</text>
+<rect x="639.7" y="178" width="52.3" height="19" rx="9.5" fill="#ddf4ff"/><text x="665.9" y="191.5" font-size="11" font-weight="600" fill="#0969da" text-anchor="middle">v0.5.0</text>
 <rect x="594.2" y="178" width="39.5" height="19" rx="9.5" fill="#fff1e5"/><text x="614.0" y="191.5" font-size="11" font-weight="600" fill="#bc4c00" text-anchor="middle">Rust</text>
 <text x="466" y="222" font-size="12.5" fill="#1f2328">Spanish morphology: lemmas, POS and</text>
 <text x="466" y="238" font-size="12.5" fill="#1f2328">UD features</text>
