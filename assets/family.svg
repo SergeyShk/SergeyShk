@@ -28,10 +28,10 @@
 <path d="M306.0 130.0 L306.0 162.0" stroke="#8c959f" stroke-width="1.5" fill="none" marker-end="url(#ah)"/>
 <path d="M578.0 130.0 L578.0 162.0" stroke="#8c959f" stroke-width="1.5" fill="none" marker-end="url(#ah)"/>
 <path d="M850.0 130.0 L850.0 442.0" stroke="#8c959f" stroke-width="1.5" fill="none" marker-end="url(#ah)"/>
-<path d="M306.0 270.0 L306.0 302.0" stroke="#8c959f" stroke-width="1.5" fill="none" marker-end="url(#ah)" stroke-dasharray="5 4"/>
-<path d="M578.0 270.0 L578.0 302.0" stroke="#8c959f" stroke-width="1.5" fill="none" marker-end="url(#ah)" stroke-dasharray="5 4"/>
-<path d="M306.0 410.0 L306.0 442.0" stroke="#8c959f" stroke-width="1.5" fill="none" marker-end="url(#ah)" stroke-dasharray="5 4"/>
-<path d="M578.0 410.0 L578.0 442.0" stroke="#8c959f" stroke-width="1.5" fill="none" marker-end="url(#ah)" stroke-dasharray="5 4"/>
+<path d="M306.0 270.0 L306.0 302.0" stroke="#8c959f" stroke-width="1.5" fill="none" marker-end="url(#ah)"/>
+<path d="M578.0 270.0 L578.0 302.0" stroke="#8c959f" stroke-width="1.5" fill="none" marker-end="url(#ah)"/>
+<path d="M306.0 410.0 L306.0 442.0" stroke="#8c959f" stroke-width="1.5" fill="none" marker-end="url(#ah)"/>
+<path d="M578.0 410.0 L578.0 442.0" stroke="#8c959f" stroke-width="1.5" fill="none" marker-end="url(#ah)"/>
 <path d="M306.0 530.0 L306.0 556.0" stroke="#8c959f" stroke-width="1.5" fill="none" marker-end="url(#ah)"/>
 <path d="M578.0 530.0 L578.0 556.0" stroke="#8c959f" stroke-width="1.5" fill="none" marker-end="url(#ah)"/>
 <path d="M850.0 530.0 L850.0 556.0" stroke="#8c959f" stroke-width="1.5" fill="none" marker-end="url(#ah)" stroke-dasharray="5 4"/>
@@ -108,18 +108,52 @@
 <text x="466" y="222" font-size="12.5" fill="#1f2328">Spanish morphology: lemmas, POS and</text>
 <text x="466" y="238" font-size="12.5" fill="#1f2328">UD features</text>
 <path transform="translate(466 246) scale(0.75)" d="M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z" fill="#59636e"/><text x="482" y="256" font-size="11.5" fill="#0969da">SergeyShk/esMorph</text>
-<rect x="178" y="304" width="256" height="104" rx="10" fill="#ffffff" stroke="#8c959f" stroke-width="1.2" stroke-dasharray="6 4"/>
-<text x="194" y="335" font-size="19" font-weight="700" fill="#59636e">ruSyntax</text>
-<rect x="361.3" y="318" width="58.7" height="19" rx="9.5" fill="#fff8c5"/><text x="390.7" y="331.5" font-size="11" font-weight="600" fill="#9a6700" text-anchor="middle">planned</text>
-<text x="194" y="362" font-size="12.5" fill="#1f2328">UD dependency parser on top of</text>
-<text x="194" y="378" font-size="12.5" fill="#1f2328">ruMorph</text>
-<text x="194" y="396" font-size="11.5" font-style="italic" fill="#59636e">replaces spaCy parser</text>
-<rect x="450" y="304" width="256" height="104" rx="10" fill="#ffffff" stroke="#8c959f" stroke-width="1.2" stroke-dasharray="6 4"/>
-<text x="466" y="335" font-size="19" font-weight="700" fill="#59636e">esSyntax</text>
-<rect x="633.3" y="318" width="58.7" height="19" rx="9.5" fill="#fff8c5"/><text x="662.7" y="331.5" font-size="11" font-weight="600" fill="#9a6700" text-anchor="middle">planned</text>
-<text x="466" y="362" font-size="12.5" fill="#1f2328">UD dependency parser on top of</text>
-<text x="466" y="378" font-size="12.5" fill="#1f2328">esMorph</text>
-<text x="466" y="396" font-size="11.5" font-style="italic" fill="#59636e">replaces spaCy parser</text>
+<rect x="178" y="304" width="256" height="104" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
+<svg x="194" y="316" width="93.1" height="25" viewBox="-20 -60 3872.0 1040">
+  
+  <path fill="#1976d2" transform="translate(0.0,700) scale(1.0,-1.0)" d="M333 378Q302 389 277 389Q242 389 218.5 370.5Q195 352 187 323V0H57V500H158L173 434H177Q194 471 223.0 491.0Q252 511 291 511Q317 511 350 500Z"/>
+  <path fill="#1976d2" transform="translate(351.0,700) scale(1.0,-1.0)" d="M182 500V216Q182 155 196.5 128.0Q211 101 253 101Q290 101 314.5 123.0Q339 145 351 177V500H481V152Q481 111 485.0 71.5Q489 32 497 0H399L376 74H372Q349 36 308.0 11.0Q267 -14 211 -14Q173 -14 143.0 -4.0Q113 6 93.0 29.0Q73 52 62.5 91.0Q52 130 52 189V500Z"/>
+  <path fill="#1976d2" transform="translate(889.0,700) scale(1.0,-1.0)" d="M362 188Q362 220 338.5 240.0Q315 260 279.5 276.5Q244 293 202.5 310.5Q161 328 125.5 353.5Q90 379 66.5 417.0Q43 455 43 514Q43 565 60.0 602.5Q77 640 108.5 665.0Q140 690 183.0 702.0Q226 714 279 714Q340 714 394.0 703.5Q448 693 483 673L440 558Q418 572 374.0 583.5Q330 595 279 595Q231 595 205.5 576.0Q180 557 180 525Q180 495 203.5 475.0Q227 455 262.5 438.0Q298 421 339.5 403.0Q381 385 416.5 359.5Q452 334 475.5 296.5Q499 259 499 203Q499 147 480.5 106.5Q462 66 428.5 39.0Q395 12 347.5 -1.0Q300 -14 243 -14Q168 -14 111.0 0.0Q54 14 27 28L71 145Q82 139 99.5 132.0Q117 125 139.0 119.0Q161 113 185.5 109.0Q210 105 236 105Q297 105 329.5 125.5Q362 146 362 188Z"/>
+  <path fill="#1976d2" transform="translate(1897.0,700) scale(1.0,-1.0)" d="M363 0V284Q363 345 345.5 372.0Q328 399 286 399Q249 399 223.5 377.5Q198 356 187 324V0H57V500H160L175 434H179Q202 466 240.0 490.0Q278 514 338 514Q375 514 404.0 504.0Q433 494 453.0 471.0Q473 448 483.0 408.5Q493 369 493 311V0Z"/>
+  <path fill="#1976d2" transform="translate(2442.0,700) scale(1.0,-1.0)" d="M5 500H74V594L204 631V500H326V390H204V198Q204 146 214.5 123.5Q225 101 254 101Q274 101 288.5 105.0Q303 109 321 117L344 17Q317 4 281.0 -5.0Q245 -14 208 -14Q139 -14 106.5 21.5Q74 57 74 138V390H5Z"/>
+  <path fill="#1976d2" transform="translate(2791.0,700) scale(1.0,-1.0)" d="M54 471Q94 489 149.0 499.5Q204 510 264 510Q316 510 351.0 497.5Q386 485 406.5 462.0Q427 439 435.5 407.0Q444 375 444 335Q444 291 441.0 246.5Q438 202 437.5 159.0Q437 116 440.0 75.5Q443 35 455 -1H349L328 68H323Q303 37 267.5 14.5Q232 -8 176 -8Q141 -8 113.0 2.5Q85 13 65.0 32.5Q45 52 34.0 78.5Q23 105 23 138Q23 184 43.5 215.5Q64 247 102.5 266.5Q141 286 194.5 293.5Q248 301 314 298Q321 354 306.0 378.5Q291 403 239 403Q200 403 156.5 395.0Q113 387 85 374ZM219 99Q258 99 281.0 116.5Q304 134 315 154V219Q284 222 255.5 220.0Q227 218 205.0 211.0Q183 204 170.0 191.0Q157 178 157 158Q157 130 173.5 114.5Q190 99 219 99Z"/>
+  <path fill="#1976d2" transform="translate(3287.0,700) scale(1.0,-1.0)" d="M170 256 20 500H175L240 393L268 323L298 393L366 500H507L356 260L517 0H366L289 120L259 194L227 120L150 0H8Z"/>
+  <path fill="none" stroke="#1976d2" stroke-width="56" stroke-linecap="round" stroke-linejoin="round" d="M1591.08 880L1658.0 470"/>
+  <path fill="none" stroke="#1976d2" stroke-width="56" stroke-linecap="round" stroke-linejoin="round" d="M1658.0 470L1485.92 220"/>
+  <path fill="none" stroke="#1976d2" stroke-width="56" stroke-linecap="round" stroke-linejoin="round" d="M1658.0 470L1830.08 220"/>
+  <circle cx="1485.92" cy="220" r="62" fill="#64b5f6"/>
+  <circle cx="1830.08" cy="220" r="62" fill="#64b5f6"/>
+  <circle cx="1658.0" cy="470" r="52" fill="#1976d2"/>
+  <circle cx="1591.08" cy="880" r="62" fill="#64b5f6"/>
+</svg>
+<rect x="367.7" y="318" width="52.3" height="19" rx="9.5" fill="#ddf4ff"/><text x="393.9" y="331.5" font-size="11" font-weight="600" fill="#0969da" text-anchor="middle">v0.2.0</text>
+<rect x="322.2" y="318" width="39.5" height="19" rx="9.5" fill="#fff1e5"/><text x="342.0" y="331.5" font-size="11" font-weight="600" fill="#bc4c00" text-anchor="middle">Rust</text>
+<text x="194" y="362" font-size="12.5" fill="#1f2328">Dependency parser: UD heads and</text>
+<text x="194" y="378" font-size="12.5" fill="#1f2328">relations on top of ruMorph</text>
+<path transform="translate(194 386) scale(0.75)" d="M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z" fill="#59636e"/><text x="210" y="396" font-size="11.5" fill="#0969da">SergeyShk/ruSyntax</text>
+<rect x="450" y="304" width="256" height="104" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
+<svg x="466" y="316" width="94.1" height="25" viewBox="-20 -60 3913.0 1040">
+  
+  <path fill="#c62828" transform="translate(0.0,700) scale(1.0,-1.0)" d="M457 43Q427 19 375.5 2.5Q324 -14 266 -14Q145 -14 89.0 56.5Q33 127 33 250Q33 382 96.0 448.0Q159 514 273 514Q311 514 347.0 504.0Q383 494 411.0 471.0Q439 448 456.0 409.0Q473 370 473 312Q473 291 470.5 267.0Q468 243 463 217H163Q166 154 195.5 122.0Q225 90 291 90Q332 90 364.5 102.5Q397 115 414 128ZM271 410Q220 410 195.5 379.5Q171 349 166 298H352Q356 352 335.5 381.0Q315 410 271 410Z"/>
+  <path fill="#c62828" transform="translate(508.0,700) scale(1.0,-1.0)" d="M264 138Q264 158 247.0 170.0Q230 182 205.0 192.0Q180 202 150.0 212.5Q120 223 95.0 241.5Q70 260 53.0 288.5Q36 317 36 362Q36 436 80.0 475.0Q124 514 207 514Q264 514 310.0 502.0Q356 490 382 475L353 381Q330 390 295.0 400.0Q260 410 224 410Q166 410 166 365Q166 347 183.0 336.0Q200 325 225.0 315.5Q250 306 280.0 295.0Q310 284 335.0 266.5Q360 249 377.0 221.0Q394 193 394 149Q394 73 345.5 29.5Q297 -14 200 -14Q147 -14 100.5 -0.5Q54 13 25 31L61 128Q84 115 122.0 102.5Q160 90 200 90Q229 90 246.5 101.0Q264 112 264 138Z"/>
+  <path fill="#c62828" transform="translate(930.0,700) scale(1.0,-1.0)" d="M362 188Q362 220 338.5 240.0Q315 260 279.5 276.5Q244 293 202.5 310.5Q161 328 125.5 353.5Q90 379 66.5 417.0Q43 455 43 514Q43 565 60.0 602.5Q77 640 108.5 665.0Q140 690 183.0 702.0Q226 714 279 714Q340 714 394.0 703.5Q448 693 483 673L440 558Q418 572 374.0 583.5Q330 595 279 595Q231 595 205.5 576.0Q180 557 180 525Q180 495 203.5 475.0Q227 455 262.5 438.0Q298 421 339.5 403.0Q381 385 416.5 359.5Q452 334 475.5 296.5Q499 259 499 203Q499 147 480.5 106.5Q462 66 428.5 39.0Q395 12 347.5 -1.0Q300 -14 243 -14Q168 -14 111.0 0.0Q54 14 27 28L71 145Q82 139 99.5 132.0Q117 125 139.0 119.0Q161 113 185.5 109.0Q210 105 236 105Q297 105 329.5 125.5Q362 146 362 188Z"/>
+  <path fill="#c62828" transform="translate(1938.0,700) scale(1.0,-1.0)" d="M363 0V284Q363 345 345.5 372.0Q328 399 286 399Q249 399 223.5 377.5Q198 356 187 324V0H57V500H160L175 434H179Q202 466 240.0 490.0Q278 514 338 514Q375 514 404.0 504.0Q433 494 453.0 471.0Q473 448 483.0 408.5Q493 369 493 311V0Z"/>
+  <path fill="#c62828" transform="translate(2483.0,700) scale(1.0,-1.0)" d="M5 500H74V594L204 631V500H326V390H204V198Q204 146 214.5 123.5Q225 101 254 101Q274 101 288.5 105.0Q303 109 321 117L344 17Q317 4 281.0 -5.0Q245 -14 208 -14Q139 -14 106.5 21.5Q74 57 74 138V390H5Z"/>
+  <path fill="#c62828" transform="translate(2832.0,700) scale(1.0,-1.0)" d="M54 471Q94 489 149.0 499.5Q204 510 264 510Q316 510 351.0 497.5Q386 485 406.5 462.0Q427 439 435.5 407.0Q444 375 444 335Q444 291 441.0 246.5Q438 202 437.5 159.0Q437 116 440.0 75.5Q443 35 455 -1H349L328 68H323Q303 37 267.5 14.5Q232 -8 176 -8Q141 -8 113.0 2.5Q85 13 65.0 32.5Q45 52 34.0 78.5Q23 105 23 138Q23 184 43.5 215.5Q64 247 102.5 266.5Q141 286 194.5 293.5Q248 301 314 298Q321 354 306.0 378.5Q291 403 239 403Q200 403 156.5 395.0Q113 387 85 374ZM219 99Q258 99 281.0 116.5Q304 134 315 154V219Q284 222 255.5 220.0Q227 218 205.0 211.0Q183 204 170.0 191.0Q157 178 157 158Q157 130 173.5 114.5Q190 99 219 99Z"/>
+  <path fill="#c62828" transform="translate(3328.0,700) scale(1.0,-1.0)" d="M170 256 20 500H175L240 393L268 323L298 393L366 500H507L356 260L517 0H366L289 120L259 194L227 120L150 0H8Z"/>
+  <path fill="none" stroke="#c62828" stroke-width="56" stroke-linecap="round" stroke-linejoin="round" d="M1632.08 880L1699.0 470"/>
+  <path fill="none" stroke="#c62828" stroke-width="56" stroke-linecap="round" stroke-linejoin="round" d="M1699.0 470L1526.92 220"/>
+  <path fill="none" stroke="#c62828" stroke-width="56" stroke-linecap="round" stroke-linejoin="round" d="M1699.0 470L1871.08 220"/>
+  <circle cx="1526.92" cy="220" r="62" fill="#ef5350"/>
+  <circle cx="1871.08" cy="220" r="62" fill="#ef5350"/>
+  <circle cx="1699.0" cy="470" r="52" fill="#c62828"/>
+  <circle cx="1632.08" cy="880" r="62" fill="#ef5350"/>
+</svg>
+<rect x="639.7" y="318" width="52.3" height="19" rx="9.5" fill="#ddf4ff"/><text x="665.9" y="331.5" font-size="11" font-weight="600" fill="#0969da" text-anchor="middle">v0.1.0</text>
+<rect x="594.2" y="318" width="39.5" height="19" rx="9.5" fill="#fff1e5"/><text x="614.0" y="331.5" font-size="11" font-weight="600" fill="#bc4c00" text-anchor="middle">Rust</text>
+<text x="466" y="362" font-size="12.5" fill="#1f2328">Spanish dependency parser: UD heads</text>
+<text x="466" y="378" font-size="12.5" fill="#1f2328">and relations on top of esMorph</text>
+<path transform="translate(466 386) scale(0.75)" d="M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z" fill="#59636e"/><text x="482" y="396" font-size="11.5" fill="#0969da">SergeyShk/esSyntax</text>
 <rect x="178" y="444" width="800" height="84" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
 <text x="194" y="475" font-size="19" font-weight="700" fill="#1f2328">anyTS</text>
 <rect x="911.7" y="458" width="52.3" height="19" rx="9.5" fill="#ddf4ff"/><text x="937.9" y="471.5" font-size="11" font-weight="600" fill="#0969da" text-anchor="middle">v0.6.3</text>
